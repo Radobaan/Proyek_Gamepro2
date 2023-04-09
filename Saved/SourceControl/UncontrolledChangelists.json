@@ -1,0 +1,33 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/Kuliah/Semester 8/Gameprog/ParkourProject_UE5-main/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset",
+				"E:/Kuliah/Semester 8/Gameprog/ParkourProject_UE5-main/Content/Mannequin/Animations/ThirdPersonRun.uasset",
+				"E:/Kuliah/Semester 8/Gameprog/ParkourProject_UE5-main/Content/UI/MainMenu.uasset",
+				"E:/Kuliah/Semester 8/Gameprog/ParkourProject_UE5-main/Content/Maps/MainMenuMap.umap",
+				"E:/Kuliah/Semester 8/Gameprog/ParkourProject_UE5-main/Content/Maps/lvl1.umap",
+				"E:/Kuliah/Semester 8/Gameprog/ParkourProject_UE5-main/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap",
+				"E:/Kuliah/Semester 8/Gameprog/ParkourProject_UE5-main/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset",
+				"E:/Kuliah/Semester 8/Gameprog/ParkourProject_UE5-main/Content/Components/ParkourMovement.uasset",
+				"E:/Kuliah/Semester 8/Gameprog/ParkourProject_UE5-main/Content/Maps/FirstPersonExampleMap.umap",
+				"E:/Kuliah/Semester 8/Gameprog/ParkourProject_UE5-main/Content/Maps/FirstPersonExampleMap_BuiltData.uasset",
+				"E:/Kuliah/Semester 8/Gameprog/ParkourProject_UE5-main/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset",
+				"E:/Kuliah/Semester 8/Gameprog/ParkourProject_UE5-main/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset",
+				"E:/Kuliah/Semester 8/Gameprog/ParkourProject_UE5-main/Content/Mannequin/Animations/wall_run_left.uasset",
+				"E:/Kuliah/Semester 8/Gameprog/ParkourProject_UE5-main/Content/Mannequin/Animations/wall_run_right.uasset",
+				"E:/Kuliah/Semester 8/Gameprog/ParkourProject_UE5-main/Content/Mannequin/Animations/WallRunR.uasset",
+				"E:/Kuliah/Semester 8/Gameprog/ParkourProject_UE5-main/Content/Mannequin/Animations/WallRunL.uasset",
+				"E:/Kuliah/Semester 8/Gameprog/ParkourProject_UE5-main/Content/Mannequin/Animations/MM_Run_Fwd.uasset",
+				"E:/Kuliah/Semester 8/Gameprog/ParkourProject_UE5-main/Content/Mannequin/Animations/WallRunLeft.uasset",
+				"E:/Kuliah/Semester 8/Gameprog/ParkourProject_UE5-main/Content/Maps/ThirdPersonMap.umap",
+				"E:/Kuliah/Semester 8/Gameprog/ParkourProject_UE5-main/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap",
+				"E:/Kuliah/Semester 8/Gameprog/ParkourProject_UE5-main/Content/Mannequin/Animations/MM_Run_Fwd.uasset",
+				"E:/Kuliah/Semester 8/Gameprog/ParkourProject_UE5-main/Content/ThirdPersonBP/UI/MainMenu.uasset"
+			]
+		}
+	]
+}
