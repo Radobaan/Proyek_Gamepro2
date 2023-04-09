@@ -3722,3 +3722,11 @@ Recommended: 516.25
 [2023.04.09-13.58.04:746][537]LogFileHelpers: InternalPromptForCheckoutAndSave took 434 ms (total: 6.56 sec)
 [2023.04.09-13.58.04:780][537]AssetCheck: New page: Asset Save: lvl1
 [2023.04.09-13.58.04:780][537]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/lvl1.lvl1
+[2023.04.09-14.01.23:911][565]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2023.04.09-14.01.25:918][565]LogSlate: Window 'Save Content' being destroyed
+[2023.04.09-14.01.25:955][565]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.09-14.01.26:231][565]LogSavePackage: Moving output files for package: /Game/Mannequin/Animations/ThirdPerson_AnimBP
+[2023.04.09-14.01.26:232][565]LogSavePackage: Moving '../../../../Kuliah/Semester 8/Gameprog/ParkourProject_UE5-main/Saved/ThirdPerson_AnimBPBFD9BD4C44EA4FEFCFAC1B888D3DB8CB.tmp' to '../../../../Kuliah/Semester 8/Gameprog/ParkourProject_UE5-main/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset'
+[2023.04.09-14.01.26:247][565]LogFileHelpers: InternalPromptForCheckoutAndSave took 291 ms (total: 6.85 sec)
+[2023.04.09-14.01.26:262][565]AssetCheck: New page: Asset Save: ThirdPerson_AnimBP
+[2023.04.09-14.01.26:262][565]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP
