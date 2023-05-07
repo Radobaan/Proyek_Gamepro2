@@ -1,0 +1,6 @@
+2023/05/07-18:57:34.855 23c0 Creating DB E:/Kuliah/Semester 8/Gameprog/ParkourProject/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb since it was missing.
+2023/05/07-18:57:35.141 23c0 Reusing MANIFEST E:/Kuliah/Semester 8/Gameprog/ParkourProject/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/05/07-19:07:59.824 23c0 Level-0 table #5: started
+2023/05/07-19:07:59.945 23c0 Level-0 table #5: 6448 bytes OK
+2023/05/07-19:07:59.997 23c0 Delete type=0 #3
+2023/05/07-19:08:00.023 23c0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

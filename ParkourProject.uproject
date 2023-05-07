@@ -16,6 +16,10 @@
 		{
 			"Name": "FunctionalTestingEditor",
 			"Enabled": true
+		},
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true
 		}
 	]
 }
