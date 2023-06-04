@@ -1,3 +1,2 @@
-2023/06/04-13:01:34.960 3944 Reusing MANIFEST E:/Kuliah/Semester 8/Gameprog/ParkourProject/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2023/06/04-13:01:34.962 3944 Recovering log #3
-2023/06/04-13:01:35.061 3944 Reusing old log E:/Kuliah/Semester 8/Gameprog/ParkourProject/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+2023/06/04-18:52:41.613 850 Creating DB C:/Users/Eduardo/Documents/GitHub/Proyek_Gamepro2/ProyekGame/Saved/webcache_4430\Local Storage\leveldb since it was missing.
+2023/06/04-18:52:41.633 850 Reusing MANIFEST C:/Users/Eduardo/Documents/GitHub/Proyek_Gamepro2/ProyekGame/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
