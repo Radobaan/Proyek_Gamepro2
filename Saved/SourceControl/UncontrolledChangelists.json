@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/xampp/htdocs/Proyek_Gamepro2/Content/Maps/Level1.umap",
+				"C:/xampp/htdocs/Proyek_Gamepro2/Content/Maps/Object/bp_ubur1.uasset",
+				"C:/xampp/htdocs/Proyek_Gamepro2/Content/Maps/Object/bp_shark.uasset",
+				"C:/xampp/htdocs/Proyek_Gamepro2/Content/Maps/Object/BP_Gate.uasset",
+				"C:/xampp/htdocs/Proyek_Gamepro2/Content/Maps/Sound/underwater_cue.uasset",
+				"C:/xampp/htdocs/Proyek_Gamepro2/Content/Maps/Tutorial.umap",
+				"C:/xampp/htdocs/Proyek_Gamepro2/Content/Maps/Sound/567347__merrick079__underwater-ambience.uasset",
 				"C:/Users/Eduardo/Documents/GitHub/Proyek_Gamepro2/Content/MSPresets/M_MS_Default_Fuzz_Material/M_MS_Default_Fuzz_Material.uasset",
 				"C:/Users/Eduardo/Documents/GitHub/Proyek_Gamepro2/Content/MSPresets/M_MS_Foliage_Material/M_MS_Foliage_Material.uasset",
 				"C:/Users/Eduardo/Documents/GitHub/Proyek_Gamepro2/Content/Test/level2/BP_Moving-Platform-X_1.uasset",
