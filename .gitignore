@@ -72,3 +72,12 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Saved/SourceControl/UncontrolledChangelists.json
+Saved/Logs/ParkourProject.log
+Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+Saved/Config/CrashReportClient/UECC-Windows-F552173346EA0DE5CDA47EA579415C15/CrashReportClient.ini
+Saved/Config/CrashReportClient/UECC-Windows-EE3B9B2B478E0B8D91E715840ED997F2/CrashReportClient.ini
+Saved/Config/CrashReportClient/UECC-Windows-95A7CEDA491F295F81F2E29B3C1F06B8/CrashReportClient.ini
+Saved/Config/CrashReportClient/UECC-Windows-36E686AD4E191670C5AA3596289F9783/CrashReportClient.ini
+Saved/AutoScreenshot.png
+Intermediate/CachedAssetRegistry.bin
