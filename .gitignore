@@ -81,3 +81,5 @@ Saved/Config/CrashReportClient/UECC-Windows-95A7CEDA491F295F81F2E29B3C1F06B8/Cra
 Saved/Config/CrashReportClient/UECC-Windows-36E686AD4E191670C5AA3596289F9783/CrashReportClient.ini
 Saved/AutoScreenshot.png
 Intermediate/CachedAssetRegistry.bin
+*.log
+*.json
